@@ -380,3 +380,17 @@ This implementation demonstrates:
 ---
 
 **Built with ❤️ using modern web technologies**
+<br>
+<hr>
+<br>
+screen shots :<br>
+<img width="1449" height="836" alt="Screenshot 2025-10-08 at 23 02 34" src="https://github.com/user-attachments/assets/654d0794-1aec-4f46-86a8-4e4f1664f9db" />
+<br>
+<img width="1449" height="836" alt="Screenshot 2025-10-08 at 23 02 41" src="https://github.com/user-attachments/assets/05d48459-8695-4750-b83a-958a782a0bad" />
+<br>
+<img width="1449" height="836" alt="Screenshot 2025-10-08 at 23 02 49" src="https://github.com/user-attachments/assets/2bf6ebaa-273a-4d17-877a-f8579ca64ffd" />
+<br>
+<img width="1449" height="836" alt="Screenshot 2025-10-08 at 23 02 58" src="https://github.com/user-attachments/assets/383db1c1-4a6d-40e4-9c45-5dd051922dd2" />
+
+
+
